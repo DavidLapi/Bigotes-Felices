@@ -181,7 +181,7 @@
 <hr />
 
 <h2>Maquetación del proyecto</h2>
-<p>Link al figma --> <a href="https://www.figma.com/design/cl11mubs4lMi8EZ64wEm45/Web-de-adoptaci%C3%B3n-de-gatitos?node-id=0-1&m=dev&t=ywyk6D4ParK4FOOz-1">Figma</a></p>
+<p>Link al figma --> <a href="https://www.figma.com/design/cl11mubs4lMi8EZ64wEm45/Web-de-adoptaci%C3%B3n-de-gatitos?node-id=0-1&t=ywyk6D4ParK4FOOz-1">Figma</a></p>
 
 <h2>Organización del equipo</h2>
 <ul>
