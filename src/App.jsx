@@ -5,6 +5,7 @@ import './animations/animations.css'
 
 function App() {
   const [animationItems] = useState(Array(80).fill(null));
+  const cachopo = "cachopo";
 
   return (
     <div className='app-container'>
