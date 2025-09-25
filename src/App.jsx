@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import { DotLottieReact } from '@lottiefiles/dotlottie-react';
 import './App.css';
 import './animations/animations.css'
+import Card from './components/Card/Card'
 
 function App() {
   const [animationItems] = useState(Array(80).fill(null));
-  const cachopo = "cachopo";
 
   return (
     <div className='app-container'>
@@ -30,6 +30,12 @@ function App() {
     </header>
     <div className='body'>
 
+        {/** Card */}
+        <Card 
+          altImg="Gatito"
+          srcImg=""
+          nombre="Leonor"
+          descripcion="Soy un gatito feliz" />
     </div>
     <footer className='footer'>
         <h3>Texto</h3>
